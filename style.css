@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(119, 188, 50);
+    padding: 20px;
+}
+
+li,h1,ul{
+    display:inline;
+}
+
+ul{
+    margin-left: 70%;
+}
+
+.about{    
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+
+.box{
+    background-color: rgb(240, 239, 240);
+    border-color: rgb(234, 236, 236);
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    padding: 10px;
+    text-align: left;   
+}
+
+.para{
+    text-align: center;
+}
